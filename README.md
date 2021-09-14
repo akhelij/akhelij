@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://mohamedakhelij.com/](https://mohamedakhelij.com/)
 
-- ⚡ Fun fact **I am still not able to explane to my parents what i am exactly doing 😖**
+- ⚡ Fun fact **I am still not able to explane to my parents what i am exactly doing for a living 😖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
