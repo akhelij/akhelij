@@ -6,17 +6,18 @@
 
 - 🔭 I’m currently working on [an Airbnb for swimming pools](https://pissina.com/)
 
+- 💪🏻 My strengths lie within **PHP / Laravel** and **Javascript / Vue js**, I use **TailwindCss** as my CSS framework, and I chose **Flutter** for building mobile apps. 
+
 - 🌱 I'm really into **entrepreneurship and Creating and Commercializing Saas**
 
 - 🤝 I’m looking to contribute on **any of your interesting project. I'm open to try new technologies and i would love to share my knowledge, potentially in a technical role.**
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-- 💬 Ask me about **Laravel, VueJs and Flutter**
 
 - 📫 How to reach me **m.akhelij@gmail.com**
 
 - 📄 Know about my experiences [https://mohamedakhelij.com/](https://mohamedakhelij.com/)
 
-- ⚡ Fun fact **I still re execute the same code when there is a bug, hoping that a miracle happen 😖**
+- ⚡ Fun fact **I am still not able to explane to my parents what i am exactly doing 😖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
