@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhelij&label=Profile%20views&color=0e75b6&style=flat" alt="akhelij" /> </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Akhelij</h1>
-<h3 align="center">A passionate full stack developer from Morocco, with more than 6 years of experience, primarily in startups and lately as a freelancer.</h3>
+<h3 align="center">A passionate full stack developer from Morocco.</h3>
 
 - 🔭 I’m currently working on [an Airbnb for swimming pools](https://pissina.com/)
 
