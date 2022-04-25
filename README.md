@@ -8,7 +8,7 @@
 
 - 💪🏻 My strengths lie within **PHP / Laravel** and **Javascript / Vue js**, I use **TailwindCss** as my CSS framework, and I chose **Flutter** for building mobile apps. 
 
-- 🌱 I'm really into **entrepreneurship and Creating and Commercializing Saas**
+- 🌱 I'm really into **entrepreneurship and Creating and Commercializing SaaS**
 
 - 🤝 I’m looking to contribute on **any of your interesting project. I'm open to try new technologies and i would love to share my knowledge, potentially in a technical role.**
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://mohamedakhelij.com/](https://mohamedakhelij.com/)
 
-- ⚡ Fun fact **I am still not able to explane to my parents what i am exactly doing for a living 😖**
+- ⚡ Fun fact **I am still not able to explain to my parents what i am exactly doing for a living 😖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
