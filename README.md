@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Akhelij</h1>
 <h3 align="center">A passionate full stack developer from Morocco.</h3>
 
-- 🔭 I’m currently working on [an Airbnb for swimming pools](https://pissina.com/)
+- 🔭 I’m currently working on [an Airbnb for swimming pools](https://pissina.vercel.app/)
 
 - 💪🏻 My strengths lie within **PHP / Laravel** and **Javascript / Vue js**, I use **TailwindCss** as my CSS framework, and I chose **Flutter** for building mobile apps. 
 
