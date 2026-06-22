@@ -1,41 +1,103 @@
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhelij&label=Profile%20views&color=0e75b6&style=flat" alt="akhelij" /> </p>
+<img src="https://komarev.com/ghpvc/?username=akhelij&label=Profile%20views&color=58A6FF&style=flat-square" alt="profile views" />
 
-<h1 align="center">Hi 👋, I'm Mohamed Akhelij</h1>
-<h3 align="center">A passionate full stack developer from Morocco.</h3>
+# Hi, I'm Mohamed Akhelij 👋
 
-- 🔭 I’m currently working on [an Airbnb for swimming pools](https://pissina.vercel.app/)
+<a href="https://github.com/akhelij">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=AI+%26+Agentic+Systems+Engineer;Building+SaaS+with+Laravel%2C+Vue+%26+LLMs;MCP+%C2%B7+Multi-agent+orchestration+%C2%B7+RAG;Tech+Lead+%26+Founder%2C+shipping+from+Morocco" alt="Typing SVG" />
+</a>
 
-- 💪🏻 My strengths lie within **PHP / Laravel** and **Javascript / Vue js**, I use **TailwindCss** as my CSS framework, and I chose **Flutter** for building mobile apps. 
+</div>
 
-- 🌱 I'm really into **entrepreneurship and Creating and Commercializing SaaS**
+---
 
-- 🤝 I’m looking to contribute on **any of your interesting project. I'm open to try new technologies and i would love to share my knowledge, potentially in a technical role.**
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+Tech Lead, full-stack engineer, and entrepreneur from Morocco 🇲🇦. I build production SaaS on **Laravel + Vue**, and these days I spend most of my time turning LLMs into reliable, automated systems — **MCP servers, multi-agent workflows, and RAG pipelines** that actually ship.
 
-- 📫 How to reach me **m.akhelij@gmail.com**
+- 🤖 Building AI-native developer workflows around **Claude Code**, the **Claude Agent SDK**, and **n8n** orchestration
+- 🧩 Author of a published **MCP server** on npm (with automated GitHub Actions releases) **[Apidog Sync MCP Server v2]([https://masbah.ma/fr](https://www.npmjs.com/package/apidog-sync-mcp-server)**
+- 🏊 Founder of **[masbah.ma](https://masbah.ma/fr)** — a marketplace for swimming pool rentals
+- 🏥 Co-founder of **Panace IA** — LLM-driven clinical document generation for hospital teams
+- 📜 **GitHub GH-600 — Developing in Agentic AI Systems** certified
+- 📫 Reach me at **m.akhelij@gmail.com** · [mohamedakhelij.com](https://mohamedakhelij.com/)
 
-- 📄 Know about my experiences [https://mohamedakhelij.com/](https://mohamedakhelij.com/)
+## 🚀 What I'm building
 
-- ⚡ Fun fact **I am still not able to explain to my parents what i am exactly doing for a living 😖**
+| Project | What it does |
+|---|---|
+| **Profynd** | Recruitment management SaaS, Talent discovery with semantic skill-matching (embeddings + hybrid search) |
+| **Panace IA** | LLM-driven clinical document generation |
+| **Masbah.ma** | A marketplace for swimming pool rentals in Morocco |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamedakhelij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedakhelij" height="30" width="40" /></a>
-</p>
+## 🧠 AI & Agentic Engineering
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+The part of the stack I'm most excited about:
 
+- **MCP (Model Context Protocol)** — built and published an MCP server to npm, shipped via automated GitHub Actions
+- **Multi-agent systems** — Standup, PR-review, Business-Analyst, and Skill-Writer agents orchestrated through **n8n**, with the Claude API as the reasoning engine
+- **Autonomous QA agent** — built on the **Claude Agent SDK**: classifies Jira tickets, reads/writes Cypress specs, and posts structured review comments
+- **CI that reviews itself** — `claude-code-action` running automated PR reviews on every push
+- **Retrieval & semantic search** — embeddings, vector + keyword hybrid search, and skill-fit scoring powering **profynd**
 
+## 🛠️ Tech Stack
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhelij" alt="akhelij" /></a> </p>
-<br>
+**Backend**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhelij&show_icons=true&locale=en&layout=compact" alt="akhelij" /></p><br><br><br><br><br><br><br><br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhelij&show_icons=true&locale=en" alt="akhelij" /></p>
+**Frontend**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhelij&" alt="akhelij" /></p>
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/akhelij"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/akhelij" /></a></p>
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**AI / LLM**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-1F6FEB?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Testing & DevOps**
+
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akhelij&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhelij&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=akhelij&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedakhelij)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamedakhelij.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.akhelij@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+If something here is useful to you, you can support my work ☕
+
+<a href="https://buymeacoffee.com/akhelij">
+  <img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" />
+</a>
+
+</div>
